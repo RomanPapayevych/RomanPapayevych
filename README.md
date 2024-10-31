@@ -1,1 +1,1 @@
-Hi, I’m Roman, i am studying in university but i spend most of my time studying courses. Сurrently i know the base of c# + .net core(MVC and Web API), also html + css + javascript with react. I have B1 level of english. I continue learn something new and improve myself.
+Hi, I’m Roman, i am studying in university but i spend most of my time studying courses. Сurrently i know the base of c# + .net core(MVC and Web API), also html + css + javascript with react. I have B2 level of english. I continue learn something new and improve myself.
